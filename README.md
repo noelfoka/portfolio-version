@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet) 
 
-# Portfolio: mobile version
+# PPortfolio: finish mobile version
 
 In this branch, I created html and css files to inspire me on my mobile version portfolio, in which I can make it easier for my future recruiter to see the adequacy of my profile with his needs.
 
@@ -71,3 +71,11 @@ If you like this project, give a ⭐️
 - Microverse program ⚡
 - My standup team 🏹
 - My family's support 🙌
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
