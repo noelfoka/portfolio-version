@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet) 
 
-# PPortfolio: finish mobile version
+# Portfolio: finish mobile version
 
 In this branch, I created html and css files to inspire me on my mobile version portfolio, in which I can make it easier for my future recruiter to see the adequacy of my profile with his needs.
 
