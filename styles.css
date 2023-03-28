@@ -367,9 +367,7 @@ li.social-icon {
 }
 
 li.skill {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+  display: inline-block;
   justify-content: center;
   padding: 4px 12px;
   position: static;
