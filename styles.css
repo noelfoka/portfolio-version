@@ -234,11 +234,6 @@ li.social-icon {
 }
 
 .title {
-  position: static;
-  width: 280px;
-  height: 25%;
-  left: 0;
-  top: 0;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -451,15 +446,16 @@ li.skill {
 .about {
   background: #fff;
   width: 90%;
+  margin-left: 25px;
+  margin-top: 30px;
+  border-top-right-radius: 50px;
 }
 
 .about-me {
   display: flex;
-  position: static;
-  width: 90%;
-  left: 0.5px;
-  top: 0.5px;
-  padding: 24px;
+  /*position: static;*/
+  width: 98%;
+  padding: 0.5px;
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: bold;
@@ -470,7 +466,7 @@ li.skill {
   flex: none;
   order: 0;
   flex-grow: 0;
-  margin: 12px 0.5px;
+  margin-top: 60px;
 }
 
 .lang {
@@ -887,9 +883,14 @@ li.skill {
     justify-content: center;
   }
 
-  .about-me {
-    padding: 2%;
+  /*.about-me {
+    padding: 5%;
     margin-left: 3%;
+    margin-top: 50px;
+  }*/
+
+  .about-div {
+    margin: 20px;
   }
 
   .about h3 {
@@ -913,6 +914,7 @@ li.skill {
   .left {
     width: 50%;
     margin-left: 5%;
+    margin-top: 10px;
   }
 
   .line {
