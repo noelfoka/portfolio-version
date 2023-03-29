@@ -453,7 +453,7 @@ li.skill {
 
 .about-me {
   display: flex;
-  /*position: static;*/
+  position: static;
   width: 98%;
   padding: 0.5px;
   font-family: "Poppins", sans-serif;
@@ -883,11 +883,11 @@ li.skill {
     justify-content: center;
   }
 
-  /*.about-me {
+  .about-me {
     padding: 5%;
     margin-left: 3%;
     margin-top: 50px;
-  }*/
+  }
 
   .about-div {
     margin: 20px;
