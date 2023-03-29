@@ -1,76 +1,159 @@
-![](https://img.shields.io/badge/Microverse-blueviolet) 
+<a name="readme-top"></a>
 
-# Portfolio: finish mobile version
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-In this branch, I created html and css files to inspire me on my mobile version portfolio, in which I can make it easier for my future recruiter to see the adequacy of my profile with his needs.
+Modify this file to match your project and remove sections that don't apply.
 
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
+OPTIONAL SECTIONS:
+- FAQ
 
-## Built With 🔨
+After you're finished please remove all the comments and instructions!
+-->
 
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Portfolio mibile version</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Portfolio-mobile-version ](#-portfolio-mobile-version-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Setup](#setup)
+    - [Install](#install)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
+  - [📝 License ](#-license-)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Portfolio-mobile-version <a name="about-project"></a>
+
+**portfolio-mibile** is my first project at microverse
+
+## 🛠 Built With <a name="built-with"></a>
 
 - HTML
 - CSS
 - Git & Github
 
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>index.html</li>
+    <li>style.css</li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **HTML**
+- **CSS**
+- **Javascript**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+```sh
+  cd portfolio-version
+  git clone git@github.com:noelfoka
+```
+
 ### Install
 
-To get a local copy up and running follow.
-- Open terminal
-- Clone this project by the command: 
+Install this project with:
 
-```
-$ git clone https://github.com/noelfoka/portfolio-version.git
-```
-
-- Then go to the main folder using the next command:
-
-```
-$ cd feature/portfolio-version.git
+```sh
+  cd portfolio-version
+  gem install
 ```
 
-- Run diplay the index.html file in your local browser.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
 
-
-### Prerequisites
-
-- IDE to edit and run the code (We use Visual Studio Code 🔥).
-- Git to versionning your work.
-
-
-### Usage
-
-- For anyone who wants to practice html5 or/and css3.
-- For anyone who wants to create his own portfolio.
-- For anyone recruiting
-
-
-## Authors
+## 👥 Authors <a name="authors"></a>
 
 👤 **Noel Nomgne Foka**
 
-- GitHub: [@noelfoka](https://github.com/noelfoka)
-- LinkedIn: [@noelfoka](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
+- GitHub: [@githubhandle](https://github.com/noelfoka)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/noelfoka)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing
+<!-- CONTRIBUTING -->
 
-All Contributions, and feature requests are welcome!
+## 🤝 Contributing <a name="contributing"></a>
 
+Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you like this project, give a ⭐️ 
+<!-- SUPPORT -->
 
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+If you like this project give me a ⭐️ 
 
-- Inspiration 💘
-- Microverse program ⚡
-- My standup team 🏹
-- My family's support 🙌
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank microverse
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
