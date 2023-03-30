@@ -345,6 +345,8 @@ li.social-icon {
 
 .project-details {
   width: 70%;
+  margin-top: 10px;
+  margin-bottom: 20px;
   height: 76px;
   left: 0;
   top: 92px;
@@ -379,19 +381,19 @@ li.skill {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   padding: 4px 12px;
   position: static;
   width: 53px;
   height: 24px;
-  left: 0.5px;
+  left: 0;
   top: 0.5px;
   background: #ebebff;
   border-radius: 8px;
   flex: none;
   order: 0;
   flex-grow: 0;
-  margin: 0.5px 8px;
+  margin-right: 8px;
 }
 
 .skill {
