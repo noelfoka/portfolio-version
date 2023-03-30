@@ -137,9 +137,9 @@ body {
   margin: 5%;
   margin-top: 25%;
   -webkit-animation-name: introin;
-          animation-name: introin;
+  animation-name: introin;
   -webkit-animation-duration: 4s;
-          animation-duration: 4s;
+  animation-duration: 4s;
 }
 
 @-webkit-keyframes introin {
@@ -200,11 +200,11 @@ p.intro1 {
 
 ul.social {
   -webkit-margin-before: 1px;
-          margin-block-start: 1px;
+  margin-block-start: 1px;
   -webkit-margin-after: 1px;
-          margin-block-end: 1px;
+  margin-block-end: 1px;
   -webkit-padding-start: 0;
-          padding-inline-start: 0;
+  adding-inline-start: 0;
 }
 
 .social-icon {
@@ -539,7 +539,7 @@ li.skill {
   padding-left: 20px;
   align-items: center;
   -moz-column-gap: 20px;
-       column-gap: 20px;
+  column-gap: 20px;
   background: #f7f7f9;
   border-radius: 8px;
   margin: 12px 0;
@@ -777,9 +777,9 @@ li.skill {
     line-height: 60px;
     margin-left: 22%;
     -webkit-animation-name: introin;
-            animation-name: introin;
+    animation-name: introin;
     -webkit-animation-duration: 4s;
-            animation-duration: 4s;
+    animation-duration: 4s;
   }
 
   @-webkit-keyframes introin {
@@ -971,6 +971,5 @@ li.skill {
 
   .contact-me button {
     margin-left: 25%;
-
   }
 }
