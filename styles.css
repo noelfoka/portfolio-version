@@ -11,6 +11,15 @@ body {
   background-color: #e5e5e5;
 }
 
+.web-nav {
+  display: none;
+}
+
+.Mylogo {
+  text-decoration: none;
+  color: #6070ff;
+}
+
 .header-container {
   display: flex;
   justify-content: space-between;
@@ -110,7 +119,7 @@ body {
   background-repeat: no-repeat;
   background-color: #fff;
   width: 98%;
-  height: 90vh;
+  height: 718px;
   border-radius: 0 0 0 100px;
   border-bottom: 2px solid #cfd8dc;
 }
@@ -128,9 +137,9 @@ body {
   margin: 5%;
   margin-top: 25%;
   -webkit-animation-name: introin;
-  animation-name: introin;
+          animation-name: introin;
   -webkit-animation-duration: 4s;
-  animation-duration: 4s;
+          animation-duration: 4s;
 }
 
 @-webkit-keyframes introin {
@@ -191,11 +200,11 @@ p.intro1 {
 
 ul.social {
   -webkit-margin-before: 1px;
-  margin-block-start: 1px;
+          margin-block-start: 1px;
   -webkit-margin-after: 1px;
-  margin-block-end: 1px;
+          margin-block-end: 1px;
   -webkit-padding-start: 0;
-  padding-inline-start: 0;
+          padding-inline-start: 0;
 }
 
 .social-icon {
@@ -234,6 +243,11 @@ li.social-icon {
 }
 
 .title {
+  position: static;
+  width: 280px;
+  height: 25%;
+  left: 0;
+  top: 0;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -327,6 +341,7 @@ li.social-icon {
   font-size: 40px;
   line-height: 52px;
   color: #091e42;
+  height: 90px;
 }
 
 .project-details {
@@ -362,7 +377,10 @@ li.social-icon {
 }
 
 li.skill {
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
   padding: 4px 12px;
   position: static;
   width: 53px;
@@ -381,7 +399,7 @@ li.skill {
   position: static;
   width: 29px;
   height: 16px;
-  left: 12px;
+  left: 0;
   top: 4px;
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -426,6 +444,7 @@ li.skill {
   background: #fff;
   padding: 7px;
   top: 12px;
+  left: 0;
   border: 1px solid #6070ff;
   box-sizing: border-box;
   border-radius: 8px;
@@ -444,29 +463,31 @@ li.skill {
 }
 
 .about {
-  background: #fff;
-  width: 90%;
-  margin-left: 25px;
-  margin-top: 30px;
-  border-top-right-radius: 50px;
+  width: 100%;
+  display: flex;
+  height: 1250px;
+  top: 3000px;
+  background-color: #fff;
+  border-radius: 0 100px 0 0;
+  flex-wrap: wrap;
 }
 
 .about-me {
-  display: flex;
-  position: static;
-  width: 98%;
-  padding: 0.5px;
+  height: 100px;
+  width: 327px;
+  padding: 24px;
   font-family: "Poppins", sans-serif;
   font-style: normal;
-  font-weight: bold;
-  font-size: 40.5px;
+  font-weight: 700;
+  font-size: 40px;
   line-height: 52px;
+  display: flex;
   align-items: center;
   color: #172b4d;
   flex: none;
   order: 0;
   flex-grow: 0;
-  margin-top: 60px;
+  margin: 12px 0.5px;
 }
 
 .lang {
@@ -510,7 +531,7 @@ li.skill {
 
 .lang-skill {
   position: static;
-  width: 80%;
+  width: 100%;
   height: 66.72px;
   left: 12px;
   top: 12px;
@@ -518,7 +539,7 @@ li.skill {
   padding-left: 20px;
   align-items: center;
   -moz-column-gap: 20px;
-  column-gap: 20px;
+       column-gap: 20px;
   background: #f7f7f9;
   border-radius: 8px;
   margin: 12px 0;
@@ -756,9 +777,9 @@ li.skill {
     line-height: 60px;
     margin-left: 22%;
     -webkit-animation-name: introin;
-    animation-name: introin;
+            animation-name: introin;
     -webkit-animation-duration: 4s;
-    animation-duration: 4s;
+            animation-duration: 4s;
   }
 
   @-webkit-keyframes introin {
@@ -884,13 +905,8 @@ li.skill {
   }
 
   .about-me {
-    padding: 5%;
+    padding: 2%;
     margin-left: 3%;
-    margin-top: 50px;
-  }
-
-  .about-div {
-    margin: 20px;
   }
 
   .about h3 {
@@ -914,7 +930,6 @@ li.skill {
   .left {
     width: 50%;
     margin-left: 5%;
-    margin-top: 10px;
   }
 
   .line {
@@ -956,5 +971,6 @@ li.skill {
 
   .contact-me button {
     margin-left: 25%;
+
   }
 }
