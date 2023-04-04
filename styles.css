@@ -135,7 +135,7 @@ body {
   color: #172b4d;
   width: 70%;
   margin: 5%;
-  margin-top: 25%;
+  margin-top: 5%;
   -webkit-animation-name: introin;
   animation-name: introin;
   -webkit-animation-duration: 4s;
@@ -333,7 +333,7 @@ li.social-icon {
   margin-left: 5%;
 }
 
-.project-description > h1 {
+.project-description>h1 {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -363,25 +363,22 @@ li.social-icon {
 
 .skills {
   display: flex;
-  float: right;
+  flex-direction: row;
   align-items: center;
   position: static;
   padding: 0.5px;
   width: 100%;
   height: 24px;
-  left: 0.5px;
   top: 180px;
-  flex: none;
   order: 2;
-  flex-grow: 0;
   margin-top: 10%;
 }
 
 li.skill {
-  display: flex;
-  flex-direction: row;
+  /*display: flex;
+  flex-direction: row;*/
   align-items: center;
-  justify-content: flex-start;
+  justify-content: flex-tart;
   padding: 4px 12px;
   position: static;
   width: 53px;
@@ -873,7 +870,7 @@ li.skill {
     color: #6b778c;
   }
 
-  .project-details > p {
+  .project-details>p {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
