@@ -333,7 +333,7 @@ li.social-icon {
   margin-left: 5%;
 }
 
-.project-description>h1 {
+.project-description h1 {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -375,8 +375,8 @@ li.social-icon {
 }
 
 li.skill {
-  /*display: flex;
-  flex-direction: row;*/
+  display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: flex-tart;
   padding: 4px 12px;
@@ -420,7 +420,7 @@ li.skill {
   flex: none;
   order: 3;
   flex-grow: 0;
-  margin-top: 30%;
+  margin-top: 10%;
 }
 
 .button-resume {
@@ -437,6 +437,7 @@ li.skill {
 }
 
 .btn {
+  display: flex;
   flex-direction: row;
   align-items: center;
   background: #fff;
@@ -453,6 +454,8 @@ li.skill {
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #396df2;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 
 .btn:hover {
@@ -870,7 +873,7 @@ li.skill {
     color: #6b778c;
   }
 
-  .project-details>p {
+  .project-details p {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
