@@ -432,8 +432,8 @@ li.skill {
   flex: none;
   order: 3;
   flex-grow: 0;
-  margin: 24px 0.5px;
-  padding-left: 20px;
+  margin: 10px 0.5px;
+  padding-left: 40px;
 }
 
 .btn {
@@ -455,7 +455,6 @@ li.skill {
   letter-spacing: 0.03em;
   color: #396df2;
   margin-bottom: 2rem;
-  margin-top: 2rem;
 }
 
 .btn:hover {
