@@ -475,7 +475,7 @@ textarea {
     flex-direction: row;
     padding: 24px;
     -moz-column-gap: 46px;
-         column-gap: 46px;
+    column-gap: 46px;
   }
 
   .mobile {
