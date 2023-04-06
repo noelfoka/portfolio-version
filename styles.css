@@ -452,6 +452,10 @@ textarea {
     text-align: left;
   }
 
+  .title1 {
+    width: 447px;
+  }
+
   .headline-text {
     width: 95%;
     font-family: "Poppins", sans-serif;
