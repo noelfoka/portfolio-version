@@ -221,6 +221,7 @@ body {
   border-radius: 8px;
   padding: 12px;
   color: #396df2;
+  background-color: #fff;
   font-size: 17px;
   font-weight: 500;
   line-height: 24px;
@@ -444,6 +445,7 @@ textarea {
   .headline-greeting {
     font-family: "Poppins", sans-serif;
     font-size: 48px;
+    width: 2rem;
     font-weight: 700;
     line-height: 60px;
     letter-spacing: 0.37px;
