@@ -43,6 +43,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [Live Demo ](#live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Install](#install)
@@ -84,6 +85,9 @@ After you're finished please remove all the comments and instructions!
 - **Javascript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Live Demo <a name="live-demo"></a>
+This is the [live demo link](https://noelfoka.github.io/portfolio-version/)
 
 <!-- GETTING STARTED -->
 
