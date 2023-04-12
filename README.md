@@ -124,6 +124,7 @@ Install this project with:
 
 - GitHub: [@githubhandle](https://github.com/noelfoka)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/noelfoka)
+- Twiter: [twitter](https://twitter.com/noelnomgne)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
