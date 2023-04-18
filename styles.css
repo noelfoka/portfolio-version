@@ -157,17 +157,17 @@ body {
 
 .btn {
   -webkit-animation-duration: 0.8s;
-          animation-duration: 0.8s;
+  animation-duration: 0.8s;
   transition: background 0.8s ease-in-out, color 0.8s ease-in-out;
 }
 
 .btn:hover {
   -webkit-animation-name: btn-hover;
-          animation-name: btn-hover;
+  animation-name: btn-hover;
   -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
   -webkit-animation-delay: 0s;
-          animation-delay: 0s;
+  animation-delay: 0s;
 }
 
 .btn:focus {
@@ -203,11 +203,11 @@ body {
 .navbar__link {
   color: #2230d2;
   -webkit-animation-name: rotate-logo;
-          animation-name: rotate-logo;
+  animation-name: rotate-logo;
   -webkit-animation-duration: 1.5s;
-          animation-duration: 1.5s;
+  animation-duration: 1.5s;
   -webkit-animation-iteration-count: 1;
-          animation-iteration-count: 1;
+  animation-iteration-count: 1;
 }
 
 .navbar__hamb {
@@ -289,7 +289,7 @@ body {
 .works__card__subtitle {
   align-items: center;
   -moz-column-gap: 2rem;
-       column-gap: 2rem;
+  column-gap: 2rem;
   margin: 20px 0;
 }
 
@@ -733,7 +733,7 @@ body {
     align-items: center;
     max-width: 1104px;
     -moz-column-gap: 46px;
-         column-gap: 46px;
+    column-gap: 46px;
     padding: 1.5rem;
   }
 
@@ -759,7 +759,7 @@ body {
     padding: 6rem;
     flex-direction: row;
     -moz-column-gap: 37px;
-         column-gap: 37px;
+    column-gap: 37px;
     border-top-right-radius: 8rem;
   }
 
@@ -770,7 +770,7 @@ body {
   .about__lang__bottom {
     display: flex;
     -moz-column-gap: 12px;
-         column-gap: 12px;
+    column-gap: 12px;
   }
 
   .about__lang__bottom li {
