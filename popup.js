@@ -2,7 +2,7 @@
 const seeProjectBtns = document.querySelectorAll(
   '.card-info-link-container button',
 );
-// Mobile
+// Mobile Pop up
 const mobileExitBtn = document.querySelector(
   '.mobile-details-first-row-container img',
 );
@@ -20,8 +20,8 @@ const mobileProjectsData = [
     description:
       'A daily selection of privately personalized reads; no accounts or sign-ups required.',
     stacks: ['Html', 'CSS', 'Javascript'],
-    previewLinkUrl: '',
-    sourceLinkUrl: '',
+    previewLinkUrl: '#',
+    sourceLinkUrl: '#',
   },
   {
     id: 1,
@@ -33,8 +33,8 @@ const mobileProjectsData = [
     description:
       'A daily selection of privately personalized reads; no accounts or sign-ups required.',
     stacks: ['Html', 'CSS', 'Javascript'],
-    previewLinkUrl: '',
-    sourceLinkUrl: '',
+    previewLinkUrl: '#',
+    sourceLinkUrl: '#',
   },
   {
     id: 2,
@@ -46,8 +46,8 @@ const mobileProjectsData = [
     description:
       'A daily selection of privately personalized reads; no accounts or sign-ups required.',
     stacks: ['Html', 'CSS', 'Javascript'],
-    previewLinkUrl: '',
-    sourceLinkUrl: '',
+    previewLinkUrl: '#',
+    sourceLinkUrl: '#',
   },
   {
     id: 3,
@@ -59,8 +59,8 @@ const mobileProjectsData = [
     description:
       'A daily selection of privately personalized reads; no accounts or sign-ups required.',
     stacks: ['Html', 'CSS', 'Javascript'],
-    previewLinkUrl: '',
-    sourceLinkUrl: '',
+    previewLinkUrl: '#',
+    sourceLinkUrl: '#',
   },
 ];
 const mobileTitle = document.querySelector(
@@ -89,8 +89,8 @@ const desktopProjectData = [
     description:
       'A daily selection of privately personalized reads; no accounts or sign-ups required.',
     stacks: ['Html', 'CSS', 'Javascript'],
-    previewLinkUrl: '',
-    sourceLinkUrl: '',
+    previewLinkUrl: '#',
+    sourceLinkUrl: '#',
   },
   {
     id: 1,
@@ -102,8 +102,8 @@ const desktopProjectData = [
     description:
       'Experimental content creation feature that allows users to add to an existing story over the course of a day without spamming their friends.',
     stacks: ['Html', 'Ruby on rails', 'CSS', 'Javascript'],
-    previewLinkUrl: '',
-    sourceLinkUrl: '',
+    previewLinkUrl: '#',
+    sourceLinkUrl: '#',
   },
   {
     id: 2,
@@ -115,8 +115,8 @@ const desktopProjectData = [
     description:
       "Exploring the future of media in Facebook's first Virtual Reality app; a place to discover and enjoy 360 photos and videos on Gear VR.",
     stacks: ['Html', 'Ruby on rails', 'CSS', 'Javascript'],
-    previewLinkUrl: '',
-    sourceLinkUrl: '',
+    previewLinkUrl: '#',
+    sourceLinkUrl: '#',
   },
   {
     id: 3,
@@ -128,8 +128,8 @@ const desktopProjectData = [
     description:
       'A smart assistant to make driving more safe, efficient, and fun by unlocking your most expensive computer: your car.',
     stacks: ['Html', 'Ruby on rails', 'CSS', 'Javascript'],
-    previewLinkUrl: '',
-    sourceLinkUrl: '',
+    previewLinkUrl: '#',
+    sourceLinkUrl: '#',
   },
 ];
 const desktopTitle = document.querySelector(
