@@ -343,6 +343,7 @@ body {
 }
 
 .desktop-details-popup-bg-container {
+  /*detail*/
   border: 1px solid red; 
   background-color: #c1c7d0;
   font-family: 'Poppins', sans-serif;
