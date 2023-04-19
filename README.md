@@ -48,6 +48,7 @@ After you're finished please remove all the comments and instructions!
     - [Setup](#setup)
     - [Install](#install)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -125,6 +126,13 @@ Install this project with:
 - GitHub: [@githubhandle](https://github.com/noelfoka)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/noelfoka)
 - Twiter: [twitter](https://twitter.com/noelnomgne)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Adding pop-up page for each project with all information about the project**
+- **Adding validation form**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
