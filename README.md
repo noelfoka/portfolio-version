@@ -39,7 +39,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Portfolio-mobile-version ](#-portfolio-mobile-version-)
+- [📖 Portfoli ](#-portfoli-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -56,9 +56,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio-mobile-version <a name="about-project"></a>
+# 📖 Portfoli <a name="about-project"></a>
 
-**portfolio-mibile** is my first project at microverse
+**portfolio-mibile** The aim of this project is to build a simple personal portfolio web page while understanding how to parse a Figma design and and flexbox to create a UI and use the images and backgrounds
 
 ## 🛠 Built With <a name="built-with"></a>
 
