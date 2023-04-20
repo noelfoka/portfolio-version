@@ -25,9 +25,9 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
+<div align="left">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <!--<img src="murple_logo.png" alt="logo" width="140"  height="auto" />*/
   <br/>
 
   <h3><b>Portfolio mibile version</b></h3>
@@ -39,7 +39,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Portfolio-mobile-version ](#-portfolio-mobile-version-)
+- [📖 Portfoli ](#-portfoli-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -52,14 +52,13 @@ After you're finished please remove all the comments and instructions!
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio-mobile-version <a name="about-project"></a>
+# 📖 Portfoli <a name="about-project"></a>
 
-**portfolio-mibile** is my first project at microverse
+**portfolio-mibile** The aim of this project is to build a simple personal portfolio web page while understanding how to parse a Figma design and and flexbox to create a UI and use the images and backgrounds
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -127,12 +126,16 @@ Install this project with:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/noelfoka)
 - Twiter: [twitter](https://twitter.com/noelnomgne)
 
+👤 **Emmanuel**
+- GitHub: [@githubhandle](http://github.com/hagan199)
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **Adding pop-up page for each project with all information about the project**
 - **Adding validation form**
+- **Adding preserve data in the browser**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,10 +164,6 @@ If you like this project give me a ⭐️
 I would like to thank microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 <!-- LICENSE -->
 
