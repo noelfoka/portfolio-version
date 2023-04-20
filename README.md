@@ -126,6 +126,9 @@ Install this project with:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/noelfoka)
 - Twiter: [twitter](https://twitter.com/noelnomgne)
 
+👤 **Emmanuel**
+- GitHub: [@githubhandle](http://github.com/hagan199)
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
