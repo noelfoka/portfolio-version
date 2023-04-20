@@ -133,6 +133,7 @@ Install this project with:
 
 - **Adding pop-up page for each project with all information about the project**
 - **Adding validation form**
+- **Adding preserve data in the browser**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

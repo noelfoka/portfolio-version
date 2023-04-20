@@ -1,6 +1,6 @@
 export const name = document.querySelector('.contact__name');
 
-//Adding function storageAvailable
+// Adding function storageAvailable
 export function storageAvailable(type) {
   let storage;
   try {
